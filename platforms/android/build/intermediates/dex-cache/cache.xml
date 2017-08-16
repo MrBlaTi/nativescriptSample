@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_744ba719db6e8a4acefbafb385f3dd797c053b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_deccbc0ddcbfb1bbdd568fe6dbcf7e3248384d10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_f6086f22fda246d3949f3ad7365d5a1819b4ebbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_da8d289ca9a28e2239c18be75de518cf6fee0e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_96556c11127b25c3af6c75be9a9635289fc1697f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\Groc\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_0c5f0d2e6c43d0e0415fddb30e8bd3fd1b66faf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_bff4c1220c5399152bb976669fe7ea62b5511e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_f08ebe1913421b734c5010522de43f143b6fe7ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_c1ec200752a2955e836bb6b8cd5bbc46eed73c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_70573b9a52dc60a5442736f9e28b08f28df77e3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_a28be3ea5cf544e25d8fa05655ba5c77ce6d9a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_5f2aa817c0fcc49c096a5ba47dbdf65f88a1afcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_f9e2452e91c3a5ecfd0fea0b0934571f3b7000a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\Groc\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\Groc-runtime-unspecified_8176cd1aa1672e3aa1a777ab98553cbaff1f477e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_6bcb05976d87ebc3f4890072c7b2cc61350144b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\vince\projects\Groc\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_26cedd34b2cd647995dad995b6a3c0cd1d933b7f.jar" />
+    </item>
+
+</items>
